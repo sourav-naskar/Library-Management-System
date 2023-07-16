@@ -55,6 +55,26 @@ Shelf Feature
 2 Options Available (Return/Renew)
 ![Screenshot (109)](https://github.com/sourav-naskar/Library-Management-System/assets/56560771/e97dc257-a17d-4c9d-b44a-b7e067cde17e)
 
+Users can ask queries to admin through "Library Service"
+![Screenshot (98)](https://github.com/sourav-naskar/Library-Management-System/assets/56560771/8a2196c2-f20c-41e4-bf71-fad917e8f2ed)
+
+![Screenshot (113)](https://github.com/sourav-naskar/Library-Management-System/assets/56560771/aab992f8-5021-4393-85cf-67390945ccee)
+
+Admin Mode:
+Admin can add book with image
+![Screenshot (117)](https://github.com/sourav-naskar/Library-Management-System/assets/56560771/9430e440-f2fb-4e8b-be84-1d6c45149d93)
+
+Search that same book whether present
+![Screenshot (119)](https://github.com/sourav-naskar/Library-Management-System/assets/56560771/d5b78f4b-0e29-4b23-91d5-986429f41da7)
+
+Admin can update,delete book also
+![Screenshot (121)](https://github.com/sourav-naskar/Library-Management-System/assets/56560771/e5298dde-b800-45c4-af46-e7e83c2f95d4)
+
+
+
+
+
+
 
 
 
