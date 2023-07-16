@@ -1,5 +1,5 @@
 # Library-Management-System 
--->Frontend: ReactJS
+-->Frontend: ReactJS+Typescript
 
 -->Backend: Springboot Data-Jpa,Data-Rest,Spring Security,Java
 
